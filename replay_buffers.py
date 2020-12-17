@@ -2,7 +2,6 @@ import random
 from collections import namedtuple, deque
 import numpy as np
 import operator
-from numpy.random import choice
 import torch
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
