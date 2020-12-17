@@ -8,7 +8,7 @@ The environment is a planar environment where the agent can move in 4 directions
 
 The state space is made up of 37 dimensions describing ray-based perception of objects forward of the agent in addition tio the agents velocity.
 
-The available actions are:
+The available actions are:  
 0 - walk forward   
 1 - walk backward  
 2 - turn left  
