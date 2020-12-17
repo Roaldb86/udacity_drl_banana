@@ -30,6 +30,11 @@ Get the environment here:
 
 run install.sh to install packages
 
+To train an agent, use the Navigation.ipynb notebook
+
 Use full path file reference in the notebook for the correct environment.  
 ex: env = UnityEnvironment(file_name="Banana_Windows_x86_64/Banana.exe")
+
+run all cells   
+
 Parameters of the neural net will be saved to checkpoint.pth when requried reward is achevied
